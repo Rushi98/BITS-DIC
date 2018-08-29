@@ -2,5 +2,5 @@
 Main DIC software
 
 ## Building
-See instructions in [BUILDING.MD](BUILDING.md "Build Instructions") file.
+instructions in [BUILDING.MD](BUILDING.md "Build Instructions") file.
 
